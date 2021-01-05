@@ -1,4 +1,4 @@
-# GPD P2 MAX OC引导黑苹果
+# GPD P2 MAX OC6.5 引导黑苹果
 
 曾经改过P2MAX的网卡了,等来等去(10代11代CPU已经不能很好的黑了,各种问题),发现完美的还是这个八代U,现在分享原卡(intel网卡)的OC引导. 可以完美运行BIG SUR 以及Catalina
 
