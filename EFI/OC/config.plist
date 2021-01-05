@@ -3,13 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>#Maintainer</key>
-	<string>维奇(weachy)</string>
+	<string>zncs520</string>
 	<key>#Title</key>
-	<string>OpenCore-NUC8-201212</string>
-	<key>#Tips - CN</key>
-	<string>如果你想了解更多关于 NUC8ixBE 豆子峡谷黑苹果相关知识，请查阅我的文章 https://u.nu/bean</string>
-	<key>#Tips - EN</key>
-	<string>If you want to learn more about hackintosh with Intel NUC 'Bean Canyon'. Please visit: https://u.nu/bean</string>
+	<string>OpenCore-P2MAX-2021</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -837,8 +833,6 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
-			<key>DeduplicateBootOrder</key>
-			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
